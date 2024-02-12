@@ -27,7 +27,7 @@ To run this application locally, follow these steps:
 1. Clone this repository to your local machine.
 
    ```bash
-   $ git clone <repository-url>
+   $ git clone (https://github.com/deepkuma123/simple-web-app.git)
 
 2. Install the dependences   
    ```bash
@@ -39,6 +39,4 @@ To run this application locally, follow these steps:
 
 
 ## Contact
-
-
-Replace `<repository-url>` and `deepkuma3214@gmail.com` with your actual repository URL and email address, respectively. This Markdown content can be saved into a file named `README.md` in your project's root directory. It will be rendered nicely on platforms like GitHub when users visit your project's repository.
+ `(https://github.com/deepkuma123/simple-web-app.git)` and `deepkuma3214@gmail.com`
