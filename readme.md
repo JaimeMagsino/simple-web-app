@@ -37,12 +37,13 @@ To run this application locally, follow these steps:
     ```bash
    $ npm start
 4. need to create create the database name same as the name used in this code inside the db folder 
-   ```bash
-   const connection = mysql.createConnection({
-  host: "your hostname",
-  user: "user name",
-  password: "your password for the sql",
-  database: "your database",
+  ```javascript
+  
+const connection = mysql.createConnection({
+  host: "your-hostname", // Replace "your-hostname" with your MySQL server hostname
+  user: "your-username", // Replace "your-username" with your MySQL username
+  password: "your-password", // Replace "your-password" with your MySQL password
+  database: "your-database", // Replace "your-database" with your MySQL database name
 });
 
 
